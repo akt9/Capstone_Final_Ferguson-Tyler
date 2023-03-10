@@ -1,0 +1,846 @@
+,article_num,date,news_comp,art_length
+0,0.txt,2012/09/08,The Orb,1238
+1,1.txt,2013/12/18,The Light of Truth,1283
+2,10.txt,2014/01/20,Homeland Illumination,463
+3,100.txt,2007/03/19,The Continent,1000
+4,101.txt,2012/11/11,Daily Pegasus,1333
+5,102.txt,2013/09/04,The Light of Truth,702
+6,103.txt,1993/01/19,News Online Today,265
+7,104.txt,2012/03/10,News Desk,624
+8,105.txt,1994/09/24,Who What News,618
+9,106.txt,2014/01/21,Modern Rubicon,261
+10,107.txt,2014/01/20,The General Post,1857
+11,108.txt,2012/11/12,News Online Today,335
+12,109.txt,2002/05/26,The Orb,735
+13,11.txt,2014/01/20,Tethys News,411
+14,110.txt,2014/01/21,Homeland Illumination,814
+15,111.txt,30 March 1995,The World,665
+16,112.txt,1996/03/15,The Truth,1127
+17,113.txt,2005/09/25,Central Bulletin,924
+18,114.txt,1993/03/14,Worldwise,1013
+19,115.txt,2002/05/27,Daily Pegasus,783
+20,116.txt,2012/06/21,The Wrap,1970
+21,117.txt,1999/11/15,News Online Today,762
+22,118.txt,2014/01/20,Centrum Sentinel,413
+23,119.txt,2013/09/03,The Tulip,637
+24,12.txt,2007/03/19,News Online Today ,311
+25,120.txt,1996/07/08,News Online Today,234
+26,121.txt,2005/04/06,All News Today,565
+27,122.txt,2014/01/20,Tethys News,532
+28,123.txt,2011/07/28,Central Bulletin,821
+29,124.txt,2013/02/08,News Online Today ,1597
+30,125.txt,2014/01/20,Central Bulletin,824
+31,126.txt,2013/11/13,World Journal,2594
+32,127.txt,2014/01/19,The Explainer,624
+33,128.txt,2014/01/19,Homeland Illumination,590
+34,129.txt,2001/08/31,International News,1025
+35,13.txt,2014/01/20,Centrum Sentinel,206
+36,130.txt,2013/06/20,Kronos Star,1168
+37,131.txt,2000/01/17,The General Post,572
+38,132.txt,2012/06/20,World Source ,1445
+39,133.txt,2014/01/20,Modern Rubicon,182
+40,134.txt,2001/03/22,Homeland Illumination,873
+41,135.txt,2012/04/09,All News Today,583
+42,136.txt,1997/04/23,Central Bulletin,703
+43,137.txt,1994/02/18,Who What News,881
+44,138.txt,2014/01/20,Athena Speaks,1605
+45,139.txt,2014/01/20,The Abila Post,690
+46,14.txt,2009/06/21,News Online Today,531
+47,140.txt,2014/01/20,Athena Speaks,1649
+48,141.txt,2009/02/21,Athena Speaks,1505
+49,142.txt,2014/01/21,Centrum Sentinel,820
+50,143.txt,1993/09/21,Worldwise,1049
+51,144.txt,2014/01/20,Homeland Illumination,415
+52,145.txt,2014/01/20,The Guide,956
+53,146.txt,2009/02/21,News Desk,1424
+54,147.txt,2013/02/24,Everyday News,2846
+55,148.txt,2014/01/19,The Orb,608
+56,149.txt,2009/06/23,World Journal,2034
+57,15.txt,2014/01/20,Centrum Sentinel,364
+58,150.txt,2013/02/22,International Times,2499
+59,151.txt,1997/10/16,Central Bulletin,900
+60,152.txt,1993/02/02,All News Today,734
+61,153.txt,1995/03/30,Who What News,572
+62,154.txt,1998/03/20,All News Today,2510
+63,155.txt,2009/06/22,News Online Today ,638
+64,156.txt,2012/06/23,The Truth,600
+65,157.txt,2009/03/13,Daily Pegasus,1823
+66,158.txt,2010/06/21,The Wrap,1565
+67,159.txt,2014/01/21,Modern Rubicon,309
+68,16.txt,1998/05/16,News Online Today,247
+69,160.txt,2014/01/19,Athena Speaks,650
+70,161.txt,2011/06/20,Homeland Illumination,2747
+71,162.txt,2009/06/21,The Guide,1354
+72,163.txt,2014/01/20,Kronos Star,414
+73,164.txt,2003/05/19,The Light of Truth,1220
+74,165.txt,2009/02/19,The Truth,1688
+75,166.txt,1998/11/10,The Truth,952
+76,167.txt,2014/01/21,International Times,1643
+77,168.txt,2009/02/18,Kronos Star,1617
+78,169.txt,2014/01/20,The Abila Post,686
+79,17.txt,2005/04/06,The Wrap,789
+80,170.txt,2014/01/20,Central Bulletin,952
+81,171.txt,2014/01/20,Modern Rubicon,371
+82,172.txt,2014/01/20,Homeland Illumination,534
+83,173.txt,2014/01/20,Tethys News,313
+84,174.txt,2014/01/19,Kronos Star,942
+85,175.txt,2011/06/21,Daily Pegasus,2704
+86,176.txt,2014/01/20,Modern Rubicon,300
+87,177.txt,2000/08/18,The Explainer,1210
+88,178.txt,2014/01/21,The Tulip,823
+89,179.txt,2005/04/06,News Online Today,422
+90,18.txt,2012/06/20,Homeland Illumination,1869
+91,180.txt,2010/03/05,World Journal,1970
+92,181.txt,2013/12/15,Kronos Star,761
+93,182.txt,2007/03/21,Daily Pegasus,1191
+94,183.txt,1998/04/26,The Wrap,5477
+95,184.txt,2012/08/22,News Online Today,795
+96,185.txt,2009/06/20,The Abila Post,1276
+97,186.txt,1997/10/15,News Online Today,479
+98,187.txt,2001/03/24,The Wrap,848
+99,188.txt,2000/06/01,News Online Today,262
+100,189.txt,2013/06/22,The Guide,1382
+101,19.txt,2009/03/13,News Desk,876
+102,190.txt,2010/06/15,News Desk,1188
+103,191.txt,2009/06/21,Athena Speaks,1402
+104,192.txt,1994/09/25,The General Post,927
+105,193.txt,2014/01/20,Tethys News,353
+106,194.txt,2012/06/23,The Guide,641
+107,195.txt,2009/05/15,The World,1679
+108,196.txt,1998/01/19,Worldwise,1623
+109,197.txt,2014/01/20,The Explainer,900
+110,198.txt,1994/02/18,The Light of Truth,1192
+111,199.txt,2014/01/20,Centrum Sentinel,470
+112,2.txt,1999/11/16,Everyday News,2783
+113,20.txt,2009/06/21,The Truth,1296
+114,200.txt,2014/03/26,Everyday News,1621
+115,201.txt,2009/02/23,Everyday News,2332
+116,202.txt,2014/01/20,Athena Speaks,1266
+117,203.txt,2014/01/20,Centrum Sentinel,314
+118,204.txt,2009/06/21,News Online Today,506
+119,205.txt,2011/11/23,The Explainer,1637
+120,206.txt,1998/11/14,The Tulip,869
+121,207.txt,2012/04/11,The Wrap,775
+122,208.txt,2014/01/20,Centrum Sentinel,328
+123,209.txt,2013/12/17,News Online Today,438
+124,21.txt,2014/01/20,Modern Rubicon,484
+125,210.txt,1993/02/03,The Orb,1107
+126,211.txt,1998/11/16,The Orb,920
+127,212.txt,2014/01/20,The Abila Post,283
+128,213.txt,2012/08/23,Central Bulletin,1889
+129,214.txt,1982/10/03,Everyday News,3992
+130,215.txt,2014/01/20,Homeland Illumination,245
+131,216.txt,2000/01/16,The Light of Truth,606
+132,217.txt,2009/03/09,The Wrap,2528
+133,218.txt,2014/01/21,The Abila Post,211
+134,219.txt,2014/01/21,News Online Today,302
+135,22.txt,2001/09/02,Daily Pegasus,2371
+136,220.txt,1997/10/17,Athena Speaks,1348
+137,221.txt,2005/04/05,Homeland Illumination,739
+138,222.txt,1998/05/17,The Orb,832
+139,223.txt,2013/12/18,The General Post,1254
+140,224.txt,2011/07/28,The Guide,649
+141,225.txt,2011/06/20,Homeland Illumination,2747
+142,226.txt,1993/01/19,International News,652
+143,227.txt,1984/05/04,News Online Today ,1134
+144,228.txt,2012/03/08,Worldwise,746
+145,229.txt,2009/03/13,The Guide,1042
+146,23.txt,2009/02/22,The General Post,1919
+147,230.txt,1995/11/23,The Truth,1252
+148,231.txt,2013/12/17,Athena Speaks,798
+149,232.txt,2014/01/20,Centrum Sentinel,518
+150,233.txt,2010/10/02,The Abila Post,820
+151,234.txt,2014/03/26,Everyday News,2057
+152,235.txt,2000/08/16,The General Post,1491
+153,236.txt,2007/03/22,The Wrap,1094
+154,237.txt,1998/05/15,All News Today,1518
+155,238.txt,2012/02/20,International Times,1778
+156,239.txt,2012/04/10,The Orb,749
+157,24.txt,2009/06/22,International Times,1891
+158,240.txt,2014/01/19,The Truth,986
+159,241.txt,2007/04/12,News Desk,964
+160,242.txt,2010/03/05,The Continent,1893
+161,243.txt,2004/05/30,The Wrap,398
+162,244.txt,2010/10/03,Central Bulletin,619
+163,245.txt,2014/01/21,The Continent,1702
+164,246.txt,2001/03/17,Kronos Star,997
+165,247.txt,2005/04/06,News Online Today,277
+166,248.txt,1999/07/09,The Orb,1071
+167,249.txt,2011/06/22,The Orb,2918
+168,25.txt,2013/12/16,News Online Today,219
+169,250.txt,2014/01/21,The Abila Post,629
+170,251.txt,2004/05/29,All News Today,268
+171,252.txt,2013/06/20,News Online Today,351
+172,253.txt,2014/01/20,Tethys News,418
+173,254.txt,2000/05/31,Homeland Illumination,733
+174,255.txt,2011/11/23,Athena Speaks,1532
+175,256.txt,2000/08/17,News Online Today,388
+176,257.txt,2010/06/21,Daily Pegasus,1487
+177,258.txt,2012/03/09,The Explainer,678
+178,259.txt,2014/01/19,News Desk,564
+179,26.txt,2014/01/20,Tethys News,432
+180,260.txt,2013/12/17,The Explainer,872
+181,261.txt,2014/01/21,The Abila Post,255
+182,262.txt,2014/01/20,Modern Rubicon,719
+183,263.txt,1998/08/20,News Online Today,364
+184,264.txt,1998/05/17,Daily Pegasus,2140
+185,265.txt,2012/03/08,The Abila Post,627
+186,266.txt,2012/02/05,News Online Today,460
+187,267.txt,1999/07/08,News Online Today,455
+188,268.txt,2009/06/23,The Continent,1972
+189,269.txt,2009/06/21,Daily Pegasus,1662
+190,27.txt,1998/01/19,News Online Today,599
+191,270.txt,2000/10/04,Athena Speaks,647
+192,271.txt,2000/06/02,The Wrap,755
+193,272.txt,2004/05/31,Daily Pegasus,408
+194,273.txt,2001/08/30,Kronos Star,1311
+195,274.txt,2014/01/21,Worldwise,842
+196,275.txt,1998/08/20,The Orb,1143
+197,276.txt,2014/01/21,International News,624
+198,277.txt,2000/08/16,The Light of Truth,1459
+199,278.txt,2000/01/15,The World,530
+200,279.txt,2014/03/26,World Journal,5115
+201,28.txt,2011/06/20,Kronos Star,509
+202,280.txt,2014/01/20,Centrum Sentinel,294
+203,281.txt,2014/01/20,Kronos Star,287
+204,282.txt,2012/06/20,International Times,1891
+205,283.txt,2014/01/20,Homeland Illumination,196
+206,284.txt,1999/02/20,The General Post,1033
+207,285.txt,2005/09/25,News Online Today,409
+208,286.txt,2010/06/19,News Online Today,570
+209,287.txt,2013/10/21,International Times,1844
+210,288.txt,2011/06/21,News Online Today,995
+211,289.txt,2014/01/20,Kronos Star,280
+212,29.txt,2014/01/20,International News,693
+213,290.txt,2013/06/20,Homeland Illumination,1942
+214,291.txt,2014/01/20,News Online Today,519
+215,292.txt,2014/01/20,The Abila Post,486
+216,293.txt,19 August 1998,Homeland Illumination,1371
+217,294.txt,2009/03/12,Homeland Illumination,1648
+218,295.txt,2000/08/18,Athena Speaks,1100
+219,296.txt,2001/03/18,The Guide,1136
+220,297.txt,2002/05/25,Homeland Illumination,672
+221,298.txt,2014/01/20,Kronos Star,536
+222,299.txt,2014/01/20,Centrum Sentinel,258
+223,3.txt,1994/02/18,The Tulip,1187
+224,30.txt,2014/01/21,Modern Rubicon,208
+225,300.txt,2012/08/24,The Explainer,2930
+226,301.txt,1992/12/12,The Light of Truth,1095
+227,302.txt,1999/11/16,The Continent,2601
+228,303.txt,2013/02/22,News Online Today ,948
+229,304.txt,15 October 1997,The Abila Post,1196
+230,305.txt,13 November 1998,The World,811
+231,306.txt,2001/06/14,Kronos Star,830
+232,307.txt,2014/01/20,Modern Rubicon,301
+233,308.txt,2014/01/20,Centrum Sentinel,277
+234,309.txt,2009/06/21,Worldwise,1347
+235,31.txt,2014/01/20,Kronos Star,254
+236,310.txt,2014/01/21,Who What News,591
+237,311.txt,2000/10/03,News Desk,654
+238,312.txt,1995/11/22,Worldwise,1288
+239,313.txt,2014/01/20,Homeland Illumination,518
+240,314.txt,1995/03/30,News Online Today,259
+241,315.txt,1993/09/21,The Tulip,1015
+242,316.txt,1998/11/14,The General Post,919
+243,317.txt,1998/03/21,Daily Pegasus,3646
+244,318.txt,2012/06/21,The Continent,2047
+245,319.txt,1999/02/20,The Tulip,1008
+246,32.txt,2014/01/20,Tethys News,306
+247,320.txt,2014/01/20,Centrum Sentinel,271
+248,321.txt,2014/01/20,Kronos Star,199
+249,322.txt,2014/01/20,The Abila Post,575
+250,323.txt,2011/11/23,News Online Today,632
+251,324.txt,2014/01/20,The Explainer,1195
+252,325.txt,2014/01/20,Centrum Sentinel,351
+253,326.txt,2014/01/20,The Abila Post,1493
+254,327.txt,1999/07/04,The Guide,860
+255,328.txt,2001/09/01,The Guide,1278
+256,329.txt,2014/01/20,Kronos Star,359
+257,33.txt,2012/09/07,Homeland Illumination,1258
+258,330.txt,1998/11/10,The Guide,1080
+259,331.txt,1994/09/25,The Tulip,870
+260,332.txt,2007/03/19,Everyday News,1051
+261,333.txt,2013/12/16,International News,590
+262,334.txt,2010/06/14,The Explainer,1244
+263,335.txt,2009/02/19,News Online Today,646
+264,336.txt,2013/09/04,The General Post,666
+265,337.txt,2012/06/22,News Online Today,264
+266,338.txt,2014/01/20,The Abila Post,454
+267,339.txt,2014/01/20,Kronos Star,230
+268,34.txt,2010/06/14,Central Bulletin,917
+269,340.txt,2009/02/20,The Explainer,1497
+270,341.txt,2013/06/21,All News Today,1408
+271,342.txt,1998/03/20,News Online Today,1115
+272,343.txt,2012/06/21,Everyday News,2246
+273,344.txt,2014/01/21,News Online Today,391
+274,345.txt,2010/12/18,The General Post,1049
+275,346.txt,2012/09/08,News Online Today,427
+276,347.txt,4 October 1982,International Times ,402
+277,348.txt,2014/01/20,Homeland Illumination,807
+278,349.txt,2002/05/27,The Wrap,723
+279,35.txt,15 May 1998,Homeland Illumination,1927
+280,350.txt,2014/01/20,Homeland Illumination,258
+281,351.txt,2012/06/21,World Journal,2129
+282,352.txt,2014/01/19,News Online Today,384
+283,353.txt,2009/06/22,World Source ,1430
+284,354.txt,2009/03/14,Athena Speaks,897
+285,355.txt,2014/01/20,Modern Rubicon,211
+286,356.txt,2014/01/20,The Abila Post,421
+287,357.txt,2009/06/21,The Orb,1604
+288,358.txt,2012/04/09,Homeland Illumination,727
+289,359.txt,2014/01/20,Kronos Star,647
+290,36.txt,2009/02/23,The Continent,2185
+291,360.txt,2013/12/17,The Tulip,1137
+292,361.txt,2011/06/22,The Truth,510
+293,362.txt,2014/01/20,Modern Rubicon,598
+294,363.txt,2001/06/16,The Guide,891
+295,364.txt,2012/06/20,Kronos Star,1183
+296,365.txt,2014/01/20,Modern Rubicon,531
+297,366.txt,2014/01/20,Homeland Illumination,320
+298,367.txt,1993/03/13,News Online Today,518
+299,368.txt,2014/01/20,Kronos Star,293
+300,369.txt,2014/01/20,The Abila Post,161
+301,37.txt,2011/11/23,Central Bulletin,1183
+302,370.txt,2010/12/19,The Tulip,971
+303,371.txt,2003/05/17,News Online Today,323
+304,372.txt,2014/01/21,The Guide,819
+305,373.txt,2012/03/09,The Guide,800
+306,374.txt,2013/06/20,International News,921
+307,375.txt,2013/12/17,Who What News,753
+308,376.txt,2014/01/20,Kronos Star,217
+309,377.txt,2007/04/11,The Explainer,1057
+310,378.txt,2010/06/14,News Online Today,423
+311,379.txt,2012/03/07,Kronos Star,706
+312,38.txt,18 January 1998,Kronos Star,1592
+313,380.txt,1992/12/12,News Online Today,503
+314,381.txt,2014/01/20,Kronos Star,366
+315,382.txt,2010/10/04,The Explainer,916
+316,383.txt,2005/09/26,Athena Speaks,1300
+317,384.txt,2014/01/20,Modern Rubicon,748
+318,385.txt,2009/06/22,The Explainer,1455
+319,386.txt,2014/01/20,Centrum Sentinel,583
+320,387.txt,2009/06/23,Everyday News,2068
+321,388.txt,2013/12/16,The Guide,830
+322,389.txt,2011/05/15,News Online Today,332
+323,39.txt,2014/01/20,Kronos Star,307
+324,390.txt,2007/03/22,The Orb,1166
+325,391.txt,2001/03/22,All News Today,751
+326,392.txt,2014/01/20,Tethys News,376
+327,393.txt,2013/02/22,World Source ,1760
+328,394.txt,2013/06/21,The Truth,1241
+329,395.txt,2014/01/20,Tethys News,304
+330,396.txt,2014/01/21,World Journal,1765
+331,397.txt,2014/01/20,The Explainer,1700
+332,398.txt,2009/03/12,The Abila Post,811
+333,399.txt,14 November 1998,Homeland Illumination,918
+334,4.txt,1998/04/26,News Online Today,1688
+335,40.txt,2014/01/19,News Online Today,313
+336,400.txt,2014/01/20,Tethys News,492
+337,401.txt,1998/11/16,Central Bulletin,760
+338,402.txt,2014/01/20,News Desk ,584
+339,403.txt,2000/10/02,Central Bulletin,545
+340,404.txt,1997/10/17,News Desk,1295
+341,405.txt,2010/06/15,Athena Speaks,1232
+342,406.txt,1998/01/19,The Truth,1603
+343,407.txt,2014/01/21,Homeland Illumination,1020
+344,408.txt,1998/11/15,The Wrap,885
+345,409.txt,1998/08/21,The Wrap,1157
+346,41.txt,2001/03/18,The Truth,1012
+347,410.txt,2000/10/02,News Online Today,282
+348,411.txt,2014/01/20,Kronos Star,312
+349,412.txt,2014/01/20,Modern Rubicon,763
+350,413.txt,2000/08/15,News Online Today,390
+351,414.txt,2012/04/10,News Online Today,288
+352,415.txt,2014/01/20,Homeland Illumination,285
+353,416.txt,2011/06/21,News Online Today,268
+354,417.txt,2014/01/20,Modern Rubicon,674
+355,418.txt,2014/01/21,Centrum Sentinel,327
+356,419.txt,2014/01/20,Tethys News,339
+357,42.txt,13 March 1996,Kronos Star,1080
+358,420.txt,1998/11/15,All News Today,710
+359,421.txt,21 November 1995,Kronos Star,1236
+360,422.txt,2009/05/16,Who What News,1177
+361,423.txt,2005/04/06,International News,1056
+362,424.txt,1995/11/23,The Guide,1375
+363,425.txt,2014/01/20,Modern Rubicon,464
+364,426.txt,2014/01/20,Homeland Illumination,237
+365,427.txt,2014/01/20,Homeland Illumination,406
+366,428.txt,2014/01/20,The Abila Post,267
+367,429.txt,2014/01/20,The Abila Post,304
+368,43.txt,2014/01/20,Modern Rubicon,802
+369,430.txt,2014/01/20,Tethys News,411
+370,431.txt,2014/01/20,News Online Today,351
+371,432.txt,2010/12/18,The Light of Truth,1007
+372,433.txt,2011/05/15,Athena Speaks,916
+373,434.txt,2014/01/20,Centrum Sentinel,572
+374,435.txt,2014/01/20,Kronos Star,330
+375,436.txt,2014/01/19,International News,833
+376,437.txt,2009/03/12,Homeland Illumination,1647
+377,438.txt,2014/01/20,The Abila Post,645
+378,439.txt,2005/09/24,The Abila Post,1138
+379,44.txt,2014/01/20,Tethys News,318
+380,440.txt,2014/01/20,News Online Today,393
+381,441.txt,2014/01/20,Kronos Star,353
+382,442.txt,1998/11/17,The Explainer,985
+383,443.txt,14 November 1999,International Times,2400
+384,444.txt,1995/10/11,International News,513
+385,445.txt,2009/06/20,The Wrap,1617
+386,446.txt,2013/11/13,News Online Today ,814
+387,447.txt,2009/03/08,News Online Today,785
+388,448.txt,1998/03/21,The Wrap,3512
+389,449.txt,1999/02/19,Who What News,697
+390,45.txt,2011/07/28,News Online Today,296
+391,450.txt,2014/01/20,The Abila Post,651
+392,451.txt,2009/03/12,News Online Today,356
+393,452.txt,2014/01/20,Modern Rubicon,539
+394,453.txt,2014/01/20,Tethys News,261
+395,454.txt,2009/06/21,News Online Today,252
+396,455.txt,2009/03/14,The Orb,1765
+397,456.txt,1995/10/11,The Light of Truth,676
+398,457.txt,2012/02/21,The Continent,1905
+399,458.txt,2014/01/20,The Abila Post,250
+400,459.txt,2001/03/24,The Orb,910
+401,46.txt,2013/09/03,News Online Today,327
+402,460.txt,2014/01/21,Everyday News,1802
+403,461.txt,2014/01/20,Kronos Star,861
+404,462.txt,2014/01/20,Kronos Star,341
+405,463.txt,2014/01/21,The Truth,939
+406,464.txt,2005/09/25,News Desk,1197
+407,465.txt,2001/03/23,Daily Pegasus,979
+408,466.txt,2014/01/20,Athena Speaks,1111
+409,467.txt,1998/11/10,News Online Today,434
+410,468.txt,7 July 1999,Homeland Illumination,1030
+411,469.txt,2014/01/20,Who What News,1309
+412,47.txt,1993/03/13,The Guide,1069
+413,470.txt,2014/01/20,Homeland Illumination,287
+414,471.txt,2000/01/16,Who What News,449
+415,472.txt,7 July 1996,The World,568
+416,473.txt,1992/12/12,Who What News,809
+417,474.txt,1995/10/12,The Truth,622
+418,475.txt,2010/06/20,The Abila Post,1129
+419,476.txt,2009/02/19,News Online Today,441
+420,477.txt,2000/10/02,The Abila Post,626
+421,478.txt,1994/02/18,The General Post,1248
+422,479.txt,1992/12/12,The Tulip,1059
+423,48.txt,2007/04/11,Athena Speaks,988
+424,480.txt,2013/12/16,The Truth,823
+425,481.txt,2014/01/21,Kronos Star,954
+426,482.txt,1999/07/08,Daily Pegasus,1180
+427,483.txt,2007/03/21,News Online Today,362
+428,484.txt,2014/01/20,Homeland Illumination,543
+429,485.txt,2014/01/20,Centrum Sentinel,565
+430,486.txt,2014/01/20,Centrum Sentinel,624
+431,487.txt,2014/01/20,Modern Rubicon,322
+432,488.txt,3 July 1999,Kronos Star,889
+433,489.txt,2010/10/03,News Online Today,422
+434,49.txt,2014/01/20,The World,1650
+435,490.txt,2014/01/20,Centrum Sentinel,232
+436,491.txt,2005/09/26,The Explainer,1396
+437,492.txt,1998/05/17,The Wrap,808
+438,493.txt,2003/05/19,The General Post,1184
+439,494.txt,2014/01/20,The Light of Truth,1805
+440,495.txt,2014/01/20,Kronos Star,379
+441,496.txt,1984/05/05,Everyday News,3621
+442,497.txt,10 October 1995,The World,631
+443,498.txt,2000/08/15,The World,1286
+444,499.txt,2011/07/28,International News,510
+445,5.txt,1998/11/10,Worldwise,1022
+446,50.txt,2014/01/20,The Abila Post,1032
+447,500.txt,1993/02/04,The Wrap,1055
+448,501.txt,1982/10/04,World Journal,3929
+449,502.txt,25 April 1998,Homeland Illumination,5289
+450,503.txt,1993/09/21,The Light of Truth,1065
+451,504.txt,2000/08/16,The Tulip,1351
+452,505.txt,2009/03/13,News Online Today,391
+453,506.txt,2013/11/12,International Times,2384
+454,507.txt,2014/01/20,Tethys News,422
+455,508.txt,2010/06/20,Kronos Star,1664
+456,509.txt,1996/03/15,The Guide,1222
+457,51.txt,2009/03/09,Daily Pegasus,2686
+458,510.txt,2014/01/20,Tethys News,387
+459,511.txt,2001/09/01,News Online Today,765
+460,512.txt,2014/01/20,News Desk,1054
+461,513.txt,2013/10/22,The Continent,1926
+462,514.txt,2009/02/22,International Times,2054
+463,515.txt,2000/01/16,The Tulip,601
+464,516.txt,2014/01/20,Athena Speaks,637
+465,517.txt,18 February 1999,The World,914
+466,518.txt,2014/01/20,Kronos Star,499
+467,519.txt,1998/11/17,Athena Speaks,970
+468,52.txt,1995/10/11,News Online Today,224
+469,520.txt,2012/09/08,The Wrap,1264
+470,521.txt,2014/01/20,Centrum Sentinel,396
+471,522.txt,2014/01/20,Homeland Illumination,222
+472,523.txt,2010/06/21,The Orb,1625
+473,524.txt,2014/01/20,Kronos Star,283
+474,525.txt,2014/01/20,News Desk,1453
+475,526.txt,10 October 1995,Kronos Star,633
+476,527.txt,2011/07/28,The Explainer,1101
+477,528.txt,2014/01/20,The Abila Post,275
+478,529.txt,2009/02/22,The Tulip,1823
+479,53.txt,2014/01/20,The Abila Post,399
+480,530.txt,2013/02/08,The Continent,5036
+481,531.txt,1998/03/20,The Orb,3546
+482,532.txt,2014/01/20,Tethys News,455
+483,533.txt,2014/01/20,Tethys News,510
+484,534.txt,1994/09/24,News Online Today,369
+485,535.txt,2014/03/26,The Continent,4771
+486,536.txt,2014/01/21,The General Post,942
+487,537.txt,2014/01/20,Homeland Illumination,356
+488,538.txt,2013/06/22,Worldwise,1296
+489,539.txt,2014/01/20,Tethys News,256
+490,54.txt,2012/08/22,The Abila Post,2587
+491,540.txt,2014/01/20,Kronos Star,363
+492,541.txt,2012/06/21,Kronos Star,582
+493,542.txt,1996/03/14,News Online Today,405
+494,543.txt,1995/10/12,The General Post,715
+495,544.txt,2001/08/31,News Online Today,589
+496,545.txt,1997/04/24,News Online Today,294
+497,546.txt,2004/05/31,The Orb,403
+498,547.txt,1995/11/21,International News,952
+499,548.txt,2011/07/27,Kronos Star,593
+500,549.txt,2012/03/09,News Online Today,228
+501,55.txt,2014/03/26,Daily Pegasus,1270
+502,550.txt,2007/03/18,International Times,893
+503,551.txt,2014/01/20,Centrum Sentinel,206
+504,552.txt,1993/09/20,The Truth,1049
+505,553.txt,2013/12/16,Worldwise,829
+506,554.txt,2009/06/20,All News Today,1142
+507,555.txt,2014/01/20,The Abila Post,720
+508,556.txt,2014/01/21,Homeland Illumination,352
+509,557.txt,2014/01/20,The Abila Post,364
+510,558.txt,2014/01/20,Tethys News,323
+511,559.txt,2013/12/16,The World,1062
+512,56.txt,2014/01/20,Centrum Sentinel,423
+513,560.txt,2009/05/17,The Light of Truth,1865
+514,561.txt,2009/03/14,The Truth,1037
+515,562.txt,2014/01/20,Centrum Sentinel,362
+516,563.txt,2014/01/20,Homeland Illumination,218
+517,564.txt,1984/05/03,World Source ,2302
+518,565.txt,2009/02/19,Central Bulletin,978
+519,566.txt,2009/08/12,News Online Today,509
+520,567.txt,2014/01/20,Homeland Illumination,440
+521,568.txt,1998/05/17,Daily Pegasus,880
+522,569.txt,2014/01/20,Kronos Star,482
+523,57.txt,2012/06/21,News Online Today ,651
+524,570.txt,2012/06/20,News Online Today,721
+525,571.txt,2011/05/15,News Desk,877
+526,572.txt,2012/06/22,Daily Pegasus,2000
+527,573.txt,2014/01/20,The Abila Post,519
+528,574.txt,1998/11/14,News Online Today,239
+529,575.txt,2013/06/22,The Orb,2126
+530,576.txt,2011/05/14,The Abila Post,818
+531,577.txt,2009/03/13,News Online Today,882
+532,578.txt,2007/04/11,Central Bulletin,676
+533,579.txt,2014/01/21,Homeland Illumination,279
+534,58.txt,1996/03/14,Worldwise,1188
+535,580.txt,2013/02/24,The Continent,2653
+536,581.txt,2010/06/22,The Truth,1758
+537,582.txt,2014/01/20,Kronos Star,288
+538,583.txt,2014/01/21,Homeland Illumination,309
+539,584.txt,2012/03/08,The Truth,724
+540,585.txt,2014/01/20,Tethys News,258
+541,586.txt,1995/04/01,The Tulip,745
+542,587.txt,2003/05/17,The World,1071
+543,588.txt,2010/10/03,News Desk,831
+544,589.txt,2014/01/19,Worldwise,1081
+545,59.txt,2003/05/18,Who What News,882
+546,590.txt,2013/10/22,News Online Today ,703
+547,591.txt,1995/10/11,Worldwise,702
+548,592.txt,2014/01/20,Homeland Illumination,363
+549,593.txt,2001/09/01,Worldwise,1370
+550,594.txt,2014/01/20,Worldwise,950
+551,595.txt,2005/04/08,The Guide,1222
+552,596.txt,1982/10/03,News Online Today ,1127
+553,597.txt,2014/01/20,Centrum Sentinel,723
+554,598.txt,2014/01/21,News Online Today ,686
+555,599.txt,2014/01/21,The Truth,828
+556,6.txt,2007/03/20,World Journal,1012
+557,60.txt,1997/04/25,News Desk,964
+558,600.txt,2014/01/20,Tethys News,267
+559,601.txt,2010/10/04,Athena Speaks,910
+560,602.txt,2014/01/19,Daily Pegasus,609
+561,603.txt,2007/03/21,All News Today,791
+562,604.txt,2010/06/21,Central Bulletin,882
+563,605.txt,1998/11/17,News Desk,880
+564,606.txt,2001/03/22,News Online Today,271
+565,607.txt,2014/01/20,The Truth,856
+566,608.txt,2013/11/13,Everyday News,2684
+567,609.txt,2014/01/20,Homeland Illumination,492
+568,61.txt,2013/12/18,News Desk,855
+569,610.txt,2012/03/10,Athena Speaks,616
+570,611.txt,11 December 1992,The World,994
+571,612.txt,1999/07/08,All News Today,869
+572,613.txt,2014/01/20,Tethys News,537
+573,614.txt,2014/01/19,The Guide,1067
+574,615.txt,2010/06/21,Athena Speaks,1245
+575,616.txt,2014/01/20,Homeland Illumination,271
+576,617.txt,1998/05/16,All News Today,694
+577,618.txt,2014/01/19,Central Bulletin,419
+578,619.txt,15 November 1998,The Abila Post,910
+579,62.txt,2014/01/21,The Guide,1054
+580,620.txt,2010/06/22,Worldwise,1828
+581,621.txt,2005/04/08,The Truth,1493
+582,622.txt,1998/05/17,The Orb,2071
+583,623.txt,2009/06/20,Kronos Star,1226
+584,624.txt,2014/01/21,Centrum Sentinel,386
+585,625.txt,2014/01/20,Homeland Illumination,207
+586,626.txt,2000/08/15,Who What News,969
+587,627.txt,15 May 1998,Homeland Illumination,775
+588,628.txt,1998/11/16,Daily Pegasus,995
+589,629.txt,2011/07/29,Worldwise,642
+590,63.txt,2014/01/20,News Online Today,420
+591,630.txt,9 November 1998,Kronos Star,936
+592,631.txt,2009/02/23,News Online Today ,651
+593,632.txt,1993/01/20,The Truth,885
+594,633.txt,2014/01/20,News Online Today,424
+595,634.txt,1995/10/11,News Online Today,329
+596,635.txt,2014/01/20,Tethys News,336
+597,636.txt,2001/03/18,International News,807
+598,637.txt,2014/01/20,Kronos Star,298
+599,638.txt,2 October 1982,International Times,3553
+600,639.txt,1993/02/03,News Online Today,341
+601,64.txt,2011/07/29,Athena Speaks,1073
+602,640.txt,1999/07/04,News Online Today,416
+603,641.txt,1993/01/19,The Guide,907
+604,642.txt,2014/01/20,Modern Rubicon,722
+605,643.txt,2009/02/23,World Source ,1517
+606,644.txt,2010/06/22,News Desk,1216
+607,645.txt,2012/06/21,The Truth,1270
+608,646.txt,2009/02/23,World Journal,2285
+609,647.txt,1998/04/27,Daily Pegasus,5831
+610,648.txt,2013/02/24,World Journal,2749
+611,649.txt,2014/01/20,Centrum Sentinel,263
+612,65.txt,2009/05/16,News Online Today,610
+613,650.txt,18 January 1993,Kronos Star,782
+614,651.txt,2013/02/07,International Times,4540
+615,652.txt,1997/04/24,Athena Speaks,1035
+616,653.txt,2014/01/20,Tethys News,215
+617,654.txt,2014/01/21,The Abila Post,273
+618,655.txt,2014/01/20,Centrum Sentinel,637
+619,656.txt,2014/03/26,Everyday News,4913
+620,657.txt,1993/09/20,News Online Today,380
+621,658.txt,2001/08/31,Homeland Illumination,2268
+622,659.txt,1999/07/05,Worldwise,972
+623,66.txt,1995/10/12,The Guide,736
+624,660.txt,2014/01/20,The Abila Post,477
+625,661.txt,2011/05/16,The Explainer,928
+626,662.txt,2012/06/22,The Orb,1996
+627,663.txt,2000/08/16,The Abila Post,1071
+628,664.txt,2012/06/21,The Guide,1358
+629,665.txt,2014/01/20,Centrum Sentinel,403
+630,666.txt,12 March 1993,Kronos Star,945
+631,667.txt,2009/03/13,The Explainer,897
+632,668.txt,2001/06/15,The Truth,829
+633,669.txt,2014/01/20,Homeland Illumination,306
+634,67.txt,2014/01/20,Modern Rubicon,259
+635,670.txt,2010/06/22,The Guide,1883
+636,671.txt,1996/07/08,The Light of Truth,621
+637,672.txt,2000/06/01,The Orb,775
+638,673.txt,2014/01/20,Central Bulletin,1117
+639,674.txt,2014/01/20,Kronos Star,277
+640,675.txt,2009/02/21,The Light of Truth,1901
+641,676.txt,2014/01/21,News Online Today,381
+642,677.txt,2014/01/20,The Abila Post,178
+643,678.txt,2014/01/20,Kronos Star,380
+644,679.txt,2014/01/20,The Explainer,1582
+645,68.txt,1998/11/15,News Online Today,293
+646,680.txt,2001/09/02,The Wrap,2244
+647,681.txt,2012/09/08,Homeland Illumination,1023
+648,682.txt,2014/01/20,The Abila Post,463
+649,683.txt,2009/03/12,All News Today,1268
+650,684.txt,2007/03/20,Homeland Illumination,1067
+651,685.txt,2014/01/20,Tethys News,329
+652,686.txt,2003/05/19,The Tulip,1191
+653,687.txt,2014/03/26,World Journal,1984
+654,688.txt,2002/05/25,News Online Today,200
+655,689.txt,2014/01/21,International News,786
+656,69.txt,19 March 1998,Homeland Illumination,3302
+657,690.txt,2007/04/11,News Online Today,346
+658,691.txt,2010/06/22,The Explainer,1308
+659,692.txt,2014/01/20,Kronos Star,540
+660,693.txt,2014/01/21,Kronos Star,744
+661,694.txt,1998/11/14,Who What News,696
+662,695.txt,1995/10/11,The Tulip,660
+663,696.txt,2011/11/22,The Abila Post,1483
+664,697.txt,2014/01/20,Homeland Illumination,256
+665,698.txt,2012/06/20,All News Today,1432
+666,699.txt,2014/01/20,The Abila Post,490
+667,7.txt,2014/01/20,News Online Today,535
+668,70.txt,2014/01/20,Kronos Star,227
+669,700.txt,2013/06/22,Daily Pegasus,2133
+670,701.txt,1999/11/15,World Journal,2625
+671,702.txt,1999/02/19,News Online Today,420
+672,703.txt,1997/10/16,The Explainer,1496
+673,704.txt,2014/01/19,The Wrap,568
+674,705.txt,2011/07/27,The Abila Post,999
+675,706.txt,1999/02/20,The Light of Truth,999
+676,707.txt,2001/03/18,News Online Today,448
+677,708.txt,2014/01/21,Centrum Sentinel,1123
+678,709.txt,2012/08/23,News Desk,2672
+679,71.txt,2010/06/21,News Online Today,381
+680,710.txt,2014/01/20,Kronos Star,229
+681,711.txt,2014/01/19,News Online Today,188
+682,712.txt,2014/01/20,The Tulip,1783
+683,713.txt,2014/01/20,The Abila Post,1393
+684,714.txt,2014/01/19,All News Today,381
+685,715.txt,2014/01/20,The Explainer,687
+686,716.txt,2009/02/21,Who What News,1315
+687,717.txt,2014/01/20,Centrum Sentinel,433
+688,718.txt,2014/01/20,The Abila Post,1149
+689,719.txt,2014/01/20,Homeland Illumination,378
+690,72.txt,2000/06/01,Daily Pegasus,835
+691,720.txt,1996/07/09,The Tulip,594
+692,721.txt,2014/01/20,News Desk,1173
+693,722.txt,1994/02/18,News Online Today,390
+694,723.txt,1993/09/21,The General Post,1101
+695,724.txt,1999/07/04,The Truth,978
+696,725.txt,1993/09/21,The Guide,1137
+697,726.txt,2014/01/20,Tethys News,606
+698,727.txt,2014/01/21,Modern Rubicon,655
+699,728.txt,1982/10/02,World Source ,2520
+700,729.txt,1995/03/31,The Light of Truth,772
+701,73.txt,2009/06/19,Homeland Illumination,1576
+702,730.txt,2005/04/08,Worldwise,1618
+703,731.txt,1997/04/25,The Explainer,1048
+704,732.txt,1993/09/19,Who What News,684
+705,733.txt,2014/01/20,Homeland Illumination,563
+706,734.txt,2000/08/17,Central Bulletin,874
+707,735.txt,2009/03/09,The Orb,2627
+708,736.txt,19 September 1993,The World,925
+709,737.txt,2004/05/29,Homeland Illumination,374
+710,738.txt,2014/01/21,Homeland Illumination,731
+711,739.txt,2012/02/21,World Journal,2002
+712,74.txt,2012/08/24,Athena Speaks,2808
+713,740.txt,1999/07/09,The Wrap,1041
+714,741.txt,1998/04/27,The Orb,5789
+715,742.txt,2009/02/18,International News,1184
+716,743.txt,2009/03/07,Homeland Illumination,2447
+717,744.txt,2014/01/20,Homeland Illumination,394
+718,745.txt,2009/06/21,Central Bulletin,981
+719,746.txt,2001/06/15,News Online Today,344
+720,747.txt,2000/10/03,The Explainer,677
+721,748.txt,1993/02/04,Daily Pegasus,1079
+722,749.txt,2014/01/20,Centrum Sentinel,257
+723,75.txt,2012/06/22,International News,432
+724,750.txt,17 February 1994,The World,1103
+725,751.txt,3 May 1984,International Times,3191
+726,752.txt,2014/01/21,Worldwise,1029
+727,753.txt,2012/09/08,All News Today,985
+728,754.txt,2011/06/22,The Guide,586
+729,755.txt,1993/01/20,Worldwise,939
+730,756.txt,2007/04/10,The Abila Post,923
+731,757.txt,2011/07/28,News Desk,1026
+732,758.txt,1998/01/20,The Guide,1722
+733,759.txt,2014/01/20,Tethys News,272
+734,76.txt,2014/01/20,Tethys News,633
+735,760.txt,2005/04/07,Daily Pegasus,862
+736,761.txt,2014/01/20,Kronos Star,455
+737,762.txt,1999/11/14,World Source,1734
+738,763.txt,2014/01/20,Kronos Star,236
+739,764.txt,2014/01/19,The Abila Post,559
+740,765.txt,2001/03/18,Worldwise,1107
+741,766.txt,2010/06/21,News Online Today,550
+742,767.txt,2010/06/21,International News,1251
+743,768.txt,1996/03/14,International News,827
+744,769.txt,2013/06/21,The Wrap,2104
+745,77.txt,2011/06/21,All News Today,2031
+746,770.txt,2010/06/19,Homeland Illumination,1550
+747,771.txt,1984/05/04,World Journal,3444
+748,772.txt,2014/01/20,Modern Rubicon,569
+749,773.txt,2012/04/10,Daily Pegasus,789
+750,774.txt,2011/06/21,Worldwise,547
+751,775.txt,2013/10/22,World Source ,1390
+752,776.txt,2014/01/20,Kronos Star,534
+753,777.txt,2013/12/16,News Online Today,408
+754,778.txt,2001/09/01,The Orb,2297
+755,779.txt,1998/11/15,News Online Today,343
+756,78.txt,2014/01/20,Tethys News,409
+757,780.txt,2001/06/15,Worldwise,860
+758,781.txt,2005/04/06,Kronos Star,1386
+759,782.txt,23 April 1997,The Abila Post,918
+760,783.txt,2014/01/20,Modern Rubicon,194
+761,784.txt,1984/05/05,The Continent,3351
+762,785.txt,2012/06/20,News Online Today,439
+763,786.txt,2004/05/30,News Online Today,201
+764,787.txt,2014/01/21,World Source ,1193
+765,788.txt,2009/03/13,The Wrap,1707
+766,789.txt,2000/01/15,News Online Today,334
+767,79.txt,1998/05/15,News Online Today,738
+768,790.txt,2014/01/20,Kronos Star,438
+769,791.txt,1998/08/21,Daily Pegasus,1268
+770,792.txt,2012/06/22,Worldwise,640
+771,793.txt,2014/01/21,Centrum Sentinel,1039
+772,794.txt,2001/08/31,The Truth,1305
+773,795.txt,1993/03/14,The Truth,976
+774,796.txt,1982/10/03,The Continent,3822
+775,797.txt,2012/03/08,News Online Today,243
+776,798.txt,2009/03/13,Central Bulletin,691
+777,799.txt,2011/06/22,The Wrap,2880
+778,8.txt,2014/01/20,Modern Rubicon,552
+779,80.txt,2012/02/22,Everyday News,2120
+780,800.txt,2013/12/17,Central Bulletin,553
+781,801.txt,2009/06/21,News Desk,1324
+782,802.txt,1994/09/25,The Light of Truth,888
+783,803.txt,2014/01/20,The Abila Post,445
+784,804.txt,2014/01/20,Homeland Illumination,337
+785,805.txt,2014/01/20,The Abila Post,258
+786,806.txt,2014/01/20,The Abila Post,197
+787,807.txt,2009/02/19,The Abila Post,1345
+788,808.txt,2009/02/20,Worldwise,1728
+789,809.txt,2013/09/02,The World,644
+790,81.txt,2013/02/09,World Journal,5083
+791,810.txt,2009/05/16,The Tulip,1742
+792,811.txt,2014/01/20,Modern Rubicon,298
+793,812.txt,2012/09/08,The Abila Post,1119
+794,813.txt,2014/01/20,Tethys News,572
+795,814.txt,1998/05/17,The Wrap,1918
+796,815.txt,2009/03/13,Worldwise,1016
+797,816.txt,2012/06/21,Worldwise,1313
+798,817.txt,2014/01/20,Centrum Sentinel,444
+799,818.txt,2014/01/20,News Desk,1626
+800,819.txt,2012/02/21,News Online Today ,683
+801,82.txt,2013/06/30,News Online Today,376
+802,820.txt,2009/03/12,Kronos Star,970
+803,821.txt,1999/07/04,International News,754
+804,822.txt,2014/01/21,The Light of Truth,841
+805,823.txt,1998/11/15,The Light of Truth,895
+806,824.txt,2014/01/21,The World,819
+807,825.txt,1996/07/08,The General Post,681
+808,826.txt,2009/05/17,The General Post,1897
+809,827.txt,2014/01/20,Modern Rubicon,719
+810,828.txt,2014/01/20,Centrum Sentinel,233
+811,829.txt,2014/01/20,Tethys News,252
+812,83.txt,2013/12/16,The Abila Post,725
+813,830.txt,2014/01/20,Modern Rubicon,517
+814,831.txt,2014/01/20,Modern Rubicon,269
+815,832.txt,2005/04/06,The Orb,822
+816,833.txt,2013/06/21,News Online Today,579
+817,834.txt,2014/01/20,The Abila Post,815
+818,835.txt,1992/12/13,The General Post,1134
+819,836.txt,2009/03/12,International News,668
+820,837.txt,2009/02/19,The Guide,1773
+821,838.txt,2014/01/20,Tethys News,712
+822,839.txt,2011/11/24,News Desk,1542
+823,84.txt,23 September 1994,The World,809
+824,840.txt,2012/11/12,The Orb,1271
+825,841.txt,2014/01/20,Centrum Sentinel,391
+826,842.txt,2014/01/20,Homeland Illumination,289
+827,843.txt,2012/11/12,The Wrap,1257
+828,844.txt,2014/01/20,Centrum Sentinel,298
+829,85.txt,2014/01/20,Kronos Star,244
+830,86.txt,2013/12/16,News Online Today,374
+831,87.txt,2014/01/20,Homeland Illumination,351
+832,88.txt,2013/11/13,The Continent,2488
+833,89.txt,2012/06/20,International News,924
+834,9.txt,2014/01/20,Kronos Star,321
+835,90.txt,2014/01/20,Tethys News,328
+836,91.txt,2000/08/18,News Desk,1143
+837,92.txt,2014/01/20,Tethys News,240
+838,93.txt,2013/02/09,Everyday News,5162
+839,94.txt,2014/01/20,Homeland Illumination,319
+840,95.txt,2009/06/20,News Online Today,519
+841,96.txt,2011/07/28,The Truth,614
+842,97.txt,1995/04/01,The General Post,803
+843,98.txt,1995/11/22,News Online Today,506
+844,99.txt,2014/01/20,Modern Rubicon,399
